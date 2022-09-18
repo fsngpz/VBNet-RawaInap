@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RawatInap
+</name>
+</assembly>
+<members>
+<member name="T:RawatInap.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources._1000_F_163103704_kRoOfR1lNyMtjMOzLD6IxPk6LxAqBgRm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources._289_2899291_transparent_stethoscope_logo_animasi_alat_kesehatan_png_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources._764d59d32f61f0f91dec8c442ab052c5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.bitebrands___logo_rumah_sakit_indonesia_dunia__01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.doctors_logo_icon_29">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.icon_registration_registry_registration_144252898">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.kisspng_computer_icons_abmeldung_clip_art_exit_5abfc80f1ca5a2_4056158015225180311173">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.png_clipart_health_care_patient_hospital_health_system_self_service_logo_medicine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RawatInap.My.Resources.Resources.png_transparent_red_and_green_capsule_illustration_logo_brand_pattern_cartoon_red_green_capsule_pills_miscellaneous_cartoon_character_text">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
