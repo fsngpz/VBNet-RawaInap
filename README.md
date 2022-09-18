@@ -3,6 +3,12 @@
 - username : admin </br>
 - password : 1234
 
-Attention:
-Pastikan PC/Laptop anda memiliki MySql Connector .Net
-Kemudian lakukan Import SQL file 'db_rawat_inap.sql'
+</br>
+</br>
+<b> Attention: </b>
+Pastikan PC/Laptop anda memiliki MySql Connector .Net </br>
+Kemudian lakukan Import SQL file <b> 'db_rawat_inap.sql' </b>
+
+</br>
+</br>
+<b> DFD </b>
