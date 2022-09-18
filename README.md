@@ -12,3 +12,4 @@ Kemudian lakukan Import SQL file <b> 'db_rawat_inap.sql' </b>
 </br>
 </br>
 <b> DFD </b>
+![DFD Rawat Inap](https://user-images.githubusercontent.com/91114367/190912344-83cbc04d-df87-4ffd-aef6-fa162ad210ff.png)
